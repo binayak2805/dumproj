@@ -1,2 +1,14 @@
 This Rishi's first commit.
-binayak.
+class Outter{
+
+public void display(){
+    System.out.println(inner.start-inner.end);
+}
+class inner{
+  public int start=10;
+  public int end=20; 
+ 
+
+
+} 
+}
